@@ -1,0 +1,6 @@
+measure,input,n,value
+quick_first_swaps,random,2000,10308
+quick_first_swaps,sorted,2000,0
+quick_first_swaps,reversed,2000,978552
+quick_random_comparisons,random,2000,27185
+quick_random_comparisons,few_unique,2000,206634
